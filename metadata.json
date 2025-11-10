@@ -1,0 +1,5 @@
+{
+  "name": "TLF2SAS: AI SAS Code Generator",
+  "description": "A lightweight web application for clinical programmers to automate the generation of SAS code from TLF mock shells using Google's Gemini API. Paste a shell description and instantly receive a ready-to-run SAS starter program.",
+  "requestFramePermissions": []
+}
